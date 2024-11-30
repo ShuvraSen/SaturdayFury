@@ -12,6 +12,7 @@ public class Singleton {
 		}
 		
 			return objSingleton;
+//			this change in singleton in comment
 			
 			/*
 			 *if i put else {	return objSingleton;} it shows error
